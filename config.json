@@ -2,14 +2,42 @@
   "empresa": "NOMBRE DEL NEGOCIO",
   "titular": "NOMBRE DEL TITULAR",
   "colorPrincipal": "#34e85a",
+
   "bancos": [
     {
       "id": "popular",
-      "cuenta": "000000000"
+      "cuenta": "000000000",
+      "tipo": "Cuenta de Ahorro",
+      "logo": "logos/popular.png",
+      "color": "#1e6fff"
     },
     {
       "id": "banreservas",
-      "cuenta": "0000000000"
+      "cuenta": "0000000000",
+      "tipo": "Cuenta de Ahorro",
+      "logo": "logos/banreservas.png",
+      "color": "#12bde8"
+    },
+    {
+      "id": "bhd",
+      "cuenta": "00000000000",
+      "tipo": "Cuenta de Ahorro",
+      "logo": "logos/bhd.png",
+      "color": "#3bd45e"
+    },
+    {
+      "id": "qik",
+      "cuenta": "0000000000",
+      "tipo": "Cuenta de Ahorro",
+      "logo": "logos/qik.png",
+      "color": "#176dff"
+    },
+    {
+      "id": "mio",
+      "cuenta": "0000000000",
+      "tipo": "Cuenta de Ahorro",
+      "logo": "logos/mio.png",
+      "color": "#ff8500"
     }
   ]
 }
