@@ -8,35 +8,35 @@
       "id": "popular",
       "cuenta": "000000000",
       "tipo": "Cuenta de Ahorro",
-      "logo": "logos/popular.png",
+      "logo": "popular.png",
       "color": "#1e6fff"
     },
     {
       "id": "banreservas",
       "cuenta": "0000000000",
       "tipo": "Cuenta de Ahorro",
-      "logo": "logos/banreservas.png",
+      "logo": "banreservas.png",
       "color": "#12bde8"
     },
     {
       "id": "bhd",
       "cuenta": "00000000000",
       "tipo": "Cuenta de Ahorro",
-      "logo": "logos/bhd.png",
+      "logo": "bhd.png",
       "color": "#3bd45e"
     },
     {
       "id": "qik",
       "cuenta": "0000000000",
       "tipo": "Cuenta de Ahorro",
-      "logo": "logos/qik.png",
+      "logo": "qik.png",
       "color": "#176dff"
     },
     {
       "id": "mio",
       "cuenta": "0000000000",
       "tipo": "Cuenta de Ahorro",
-      "logo": "logos/mio.png",
+      "logo": "mio.png",
       "color": "#ff8500"
     }
   ]
