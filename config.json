@@ -1,0 +1,15 @@
+{
+  "empresa": "NOMBRE DEL NEGOCIO",
+  "titular": "NOMBRE DEL TITULAR",
+  "colorPrincipal": "#34e85a",
+  "bancos": [
+    {
+      "id": "popular",
+      "cuenta": "000000000"
+    },
+    {
+      "id": "banreservas",
+      "cuenta": "0000000000"
+    }
+  ]
+}
